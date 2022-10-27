@@ -11,4 +11,4 @@ for count in range(passcount):
     file.write(char+'\n')
     char=''
 file.close()
-print('pass list is ready')
+print('wordlist is ready')
